@@ -1,2 +1,2 @@
 # curriculumvitae
-Crearemos un proyecto desde cero con react
+Crearemos un proyecto desde cero con React
